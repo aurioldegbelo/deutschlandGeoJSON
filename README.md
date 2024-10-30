@@ -1,5 +1,3 @@
-🚨 **PLEASE NOTE: The project is archived and is not being actively maintained anymore. Feel free to fork it and make it your own.**
-
 ---
 
 deutschlandGeoJSON
